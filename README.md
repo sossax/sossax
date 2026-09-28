@@ -13,12 +13,11 @@ Building practical skills across **networking, infrastructure, cloud, Linux, sec
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me:
 
 I'm an IT professional focused on **network infrastructure, systems, cloud, and automation**.
 
 My background combines professional experience with hands-on technical training in:
-
 - 🌐 Networking & Infrastructure
 - ☁️ Cloud Computing
 - 🐧 Linux & Systems Administration
@@ -27,10 +26,10 @@ My background combines professional experience with hands-on technical training 
 - 📊 Data & SQL
 - 🛠️ Network Troubleshooting
 
-Always looking to expand my knowledge in **cloud networking, network automation, infrastructure, and systems engineering.**
+Always looking to expand my knowledge in **cloud infrastructure, automation, and systems engineering.**
 
 
-## 🧰 Technical Skills
+## 🧰 Technical Skills:
 
 ### Networking
 
