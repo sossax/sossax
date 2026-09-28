@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan
 
-### Network & Infrastructure | Cloud | IT Systems | Automation
+### Network & Infrastructure | IT Systems | Automation
 
 Building practical skills across **networking, infrastructure, cloud, Linux, security, and automation.**
 
