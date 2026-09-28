@@ -27,7 +27,7 @@ My background combines professional experience with hands-on technical training 
 - 📊 Data & SQL
 - 🛠️ Network Troubleshooting
 
-Currently continuing to expand my knowledge in **cloud networking, network automation, infrastructure, and systems engineering.**
+Always looking to expand my knowledge in **cloud networking, network automation, infrastructure, and systems engineering.**
 
 
 ## 🧰 Technical Skills
