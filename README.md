@@ -19,7 +19,6 @@ I'm an IT professional focused on **network infrastructure, systems, cloud, and 
 
 My background combines professional experience with hands-on technical training in:
 - 🌐 Networking & Infrastructure
-- ☁️ Cloud Computing
 - 🐧 Linux & Systems Administration
 - 🔐 Cybersecurity
 - ⚙️ Automation & Scripting
