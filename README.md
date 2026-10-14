@@ -6,7 +6,7 @@
 
 My background combines professional experience with hands-on technical training in:
 - 🌐 Network Infrastructure | Virtualization 
-- ⚙️ Automation Tools | Shell Scripting 
+- ⚙️ Automation Tools | Shell Scripting | SQL | Python
 - 🛠️ AWS Cloud Services 
 - 🧑‍💻 Troubleshooting Systems
 
