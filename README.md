@@ -5,9 +5,9 @@
 </div>
 
 My background combines professional experience with hands-on technical training in:
-- 🌐 Network Infrastructure & Virtualization 
-- ⚙️ Automation Tools & Shell Scripting 
-- 🛠️ Cloud Services & Vendors 
+- 🌐 Network Infrastructure | Virtualization 
+- ⚙️ Automation Tools | Shell Scripting 
+- 🛠️ AWS Cloud Services 
 - 🧑‍💻 Troubleshooting Systems
 
 Always looking to expand my knowledge in **cloud infrastructure and next-generation systems engineering.**
