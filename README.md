@@ -3,6 +3,7 @@
 ## Hey! I'm Juan.  
 
 </div>
+
 My background combines professional experience with hands-on technical training in:
 - 🌐 Network Infrastructure | Cloud Services 
 - ⚙️ Shell Scripting | SQL | Python
